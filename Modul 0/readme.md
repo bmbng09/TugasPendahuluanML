@@ -52,15 +52,13 @@ Menurut sumber [3], *Data Preprocessing* menjadi tahapan yang penting agar data 
 - **Numpy** adalah pustaka Python untuk komputasi ilmiah, menyediakan array multidimensi berperforma tinggi dan alat untuk mengelolanya [4].
 - **Pandas** adalah pustaka Python sumber terbuka untuk analisis dan manipulasi data numerik serta deret waktu [4].
 
-Perbedaan utama antara Numpy dan Pandas:
-
-| Aspek | Numpy | Pandas |
-|--------|--------|--------|
-| Konsumsi Memori | Lebih hemat | Menggunakan lebih banyak |
-| Struktur Data | Array multidimensi | DataFrame, Series |
-| Kegunaan | Komputasi ilmiah | Manipulasi data |
+Salah satu perbedaan utama terletak pada konsumsi memori, pandas mengonsumsi lebih banyak memori sedangkan Numpy lebih hemat memori
 
 ---
+
+## 5. Flowchart Machine Learning
+![image](https://github.com/user-attachments/assets/46340610-2be6-4d28-97bf-39d56ab1b32e)
+
 
 ## Referensi
 [1] [Dicoding - Machine Learning Adalah](https://www.dicoding.com/blog/machine-learning-adalah/)  
