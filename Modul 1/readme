@@ -3,3 +3,9 @@ PRAKTIKUM MACHINE LEARNING
 TUGAS PENDAHULUAN  
 
 Tahun Ajar 2024/2025
+
+1. Jelaskan apa itu Machine Learning (ML) dan bagaimana cara kerjanya dibandingkan dengan pemrograman konvensional. Berikan contoh yang menggambarkan perbedaannya. (20%)
+Jawaban:
+	Machine Learning (ML) adalah cabang kecerdasan buatan (AI) yang berfokus pada pengembangan algoritma yang memungkinkan sistem komputer belajar dari data dan meningkatkan kinerjanya tanpa instruksi eksplisit [1].
+	Machine Learning (ML) bekerja dengan memanfaatkan hubungan matematika yang ada diantara data input dan output [1]. Pendekatan konvensional dalam pemrograman biasanya melibatkan penulisan aturan dan logika secara langsung oleh programmer. Di sisi lain, Machine Learning (ML) memungkinkan sistem untuk menyesuaikan diri dengan pola dalam data, bahkan jika pola tersebut kompleks atau sulit dijabarkan secara eksplisit oleh manusia. Hal ini memungkinkan penyelesaian masalah yang lebih adaptif dan canggih [2].
+	Salah satu contoh yang menggambarkan perbedaan dari Machine Learning (ML) dengan pemrograman konvensional adalah program yang dapat mengidentifikasi spam pada email. Dengan pemrograman konvensional, kita harus menentukan semua aturan yang mendefinisikan email spam, seperti kata-kata tertentu dalam subjek atau isi email. Setiap aturan harus ditulis secara manual oleh programmer. Sedangkan dengan Machine Learning (ML) kita akan mengumpulkan sejumlah besar email yang sudah dikategorikan sebagai "spam" atau "bukan spam". Algoritma ML kemudian dilatih dengan data ini untuk mengenali pola yang membedakan antara spam dan non-spam. Setelah pelatihan, model dapat mengklasifikasikan email baru sebagai spam atau bukan berdasarkan pola yang telah dipelajarinya [2].
